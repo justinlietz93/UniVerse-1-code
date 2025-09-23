@@ -71,7 +71,7 @@ cd UniVerse-1-code
 ### 🚀 Inference Scripts
 
 ```bash
-bash scipts/inference/inference_universe.sh
+bash scripts/inference/inference_universe.sh
 ```
 
 ## Acknowledgements
