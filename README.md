@@ -18,7 +18,7 @@ This is official inference code of UniVerse-1
 
 ## 🔥🔥🔥 News!!
 <!-- * Sep 03, 2025: 👋 We release the  # TODO -->
-<!-- * Sep 08, 2025: 👋 We release Verse-Bench metric tools, [Verse-Bench tools](https://github.com/Dorniwang/Verse-Bench). -->
+* Sep 28, 2025: 👋 We release Verse-Bench metric tools, [Verse-Bench tools](https://github.com/Dorniwang/Verse-Bench).
 * Sep 09, 2025: 👋 We release the technical report of [UniVerse-1](https://arxiv.org/pdf/2509.06155).
 * Sep 08, 2025: 👋 We release Verse-Bench datasets, [Verse-Bench Dataset](https://huggingface.co/datasets/dorni/Verse-Bench).
 * Sep 08, 2025: 👋 We release model weights of [UniVerse-1](https://huggingface.co/dorni/UniVerse-1-Base).
